@@ -1,0 +1,20 @@
+.fundo {
+    background-color: #323f4a;
+}
+.fundo-caixa {
+    background-color: #1c2329;
+}
+.cor-letra, .cor {
+    color: #00ba7c;
+}
+.cor {
+    background-color: #00ba7c;
+}
+.cor-caixa{
+    color: #d1d1d1;
+    background-color: #d1d1d1;
+}
+#caixa-atualmente {
+    background-color: #00ba7c;
+    color: #101010;
+}
